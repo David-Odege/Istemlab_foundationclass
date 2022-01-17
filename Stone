@@ -1,0 +1,11 @@
+Mkdir 
+find -type
+mv old_name to new_name
+find -type d
+find -type -f -iname 'd*'
+*: wildcard selector
+ls -d*/
+find -type -d | grep */
+ls -d */ | wc
+find -type -d | grep */
+testing
